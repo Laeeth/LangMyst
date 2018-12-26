@@ -1,0 +1,5 @@
+name "langmyst"
+description "D library for detecting the programming language of a code snippet."
+authors "CodeMyst"
+copyright "Copyright © 2018, CodeMyst"
+license "MPL-2.0"
